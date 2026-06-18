@@ -1,8 +1,20 @@
 <div align="center">
 
 <p align="center">
-  <img src="banner.svg">
+  <img src="./assets/banner.svg" width="100%">
 </p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Welcome+to+the+Kingdom+of+Bitencourt;Game+Developer;Current+Quest%3A+SpaceShooter;Building+Games+One+Line+at+a+Time"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Welcome+to+the+Kingdom+of+Bitencourt;Game+Developer;Current+Quest%3A+SpaceShooter;Building+Games+One+Line+at+a+Time"/>
+
+</div>
 
 ### ⚔ Game Developer • C++ • Unreal Engine 5
 
