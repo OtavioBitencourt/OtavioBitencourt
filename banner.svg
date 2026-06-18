@@ -1,89 +1,141 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1200 350" xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
+<defs>
 
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0a0a0a"></stop>
-      <stop offset="50%" stop-color="#151515"></stop>
-      <stop offset="100%" stop-color="#0a0a0a"></stop>
-    </linearGradient>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#050505"></stop>
+<stop offset="50%" stop-color="#121212"></stop>
+<stop offset="100%" stop-color="#050505"></stop>
+</linearGradient>
 
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8f6b20"></stop>
-      <stop offset="50%" stop-color="#d4af37"></stop>
-      <stop offset="100%" stop-color="#8f6b20"></stop>
-    </linearGradient>
+<linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#8b6b1f"></stop>
+<stop offset="50%" stop-color="#d4af37"></stop>
+<stop offset="100%" stop-color="#8b6b1f"></stop>
+</linearGradient>
 
-  </defs>
+<filter id="glow">
+<feGaussianBlur stdDeviation="3"></feGaussianBlur>
+</filter>
 
-  <!-- Background -->
+</defs>
 
-  <rect width="1200" height="300" fill="url(#bg)"></rect>
+<!-- Background -->
 
-  <!-- Decorative Border -->
+<rect width="1200" height="350" fill="url(#bg)"></rect>
 
-  <rect x="10" y="10" width="1180" height="280" rx="8" fill="none" stroke="url(#gold)" stroke-width="2"></rect>
+<!-- Border -->
 
-  <!-- Shield -->
+<rect x="10" y="10" width="1180" height="330" rx="8" fill="none" stroke="url(#gold)" stroke-width="2"></rect>
 
-  <path d="M600 40
-       L650 60
-       L650 120
-       Q650 170 600 210
-       Q550 170 550 120
-       L550 60
-       Z" fill="#111" stroke="url(#gold)" stroke-width="3"></path>
+<!-- Fog Layer -->
 
-  <text x="600" y="120" fill="#d4af37" font-size="42" text-anchor="middle" font-family="Georgia">
-    OB
-  </text>
+<g opacity="0.08">
 
-  <!-- Name -->
+<ellipse cx="300" cy="260" rx="200" ry="50" fill="#ffffff">
 
-  <text x="600" y="180" fill="#d4af37" font-size="48" text-anchor="middle" font-family="Georgia" font-weight="bold">
-    OTÁVIO BITENCOURT
-  </text>
+<animateTransform attributeName="transform" type="translate" values="-40 0;40 0;-40 0" dur="25s" repeatCount="indefinite"></animateTransform>
 
-  <!-- Subtitle -->
+</ellipse>
 
-  <text x="600" y="220" fill="#bbbbbb" font-size="24" text-anchor="middle" font-family="Arial">
-    Game Developer • C++ • Unreal Engine 5
-  </text>
+<ellipse cx="850" cy="220" rx="250" ry="60" fill="#ffffff">
 
-  <!-- Sword -->
+<animateTransform attributeName="transform" type="translate" values="50 0;-50 0;50 0" dur="35s" repeatCount="indefinite"></animateTransform>
 
-  <g transform="translate(250 80)">
+</ellipse>
 
-    <rect x="0" y="0" width="8" height="100" fill="#cccccc"></rect>
+</g>
 
-    <rect x="-15" y="90" width="40" height="8" fill="#d4af37"></rect>
+<!-- Castle -->
 
-  </g>
+<g fill="#202020">
 
-  <!-- Castle -->
+<rect x="850" y="120" width="180" height="120"></rect>
 
-  <g transform="translate(920 70)">
+<rect x="870" y="70" width="40" height="70"></rect>
+<rect x="940" y="50" width="40" height="90"></rect>
+<rect x="1010" y="70" width="40" height="70"></rect>
 
-    <rect width="120" height="100" fill="#222"></rect>
+</g>
 
-    <rect x="10" y="-30" width="20" height="40" fill="#222"></rect>
-    <rect x="50" y="-30" width="20" height="40" fill="#222"></rect>
-    <rect x="90" y="-30" width="20" height="40" fill="#222"></rect>
+<!-- Sword -->
 
-  </g>
+<g transform="translate(170 90)">
 
-  <!-- Spark Animation -->
+<rect x="0" y="0" width="8" height="130" fill="#cccccc"></rect>
 
-  <circle cx="300" cy="70" r="2" fill="#d4af37">
+<rect x="-18" y="110" width="45" height="8" fill="#d4af37"></rect>
 
-    <animate attributeName="cy" values="70;50;70" dur="2s" repeatCount="indefinite"></animate>
+<rect x="3" y="-10" width="2" height="20" fill="#ffffff">
 
-  </circle>
+<animate attributeName="y" values="-10;120;-10" dur="2s" repeatCount="indefinite"></animate>
 
-  <circle cx="900" cy="90" r="2" fill="#d4af37">
+</rect>
 
-    <animate attributeName="cy" values="90;60;90" dur="3s" repeatCount="indefinite"></animate>
+</g>
 
-  </circle>
+<!-- Shield -->
+
+<g>
+
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"></animateTransform>
+
+<path d="M600 50
+L650 70
+L650 130
+Q650 190 600 230
+Q550 190 550 130
+L550 70
+Z" fill="#111" stroke="url(#gold)" stroke-width="3"></path>
+
+<text x="600" y="140" fill="#d4af37" font-size="46" text-anchor="middle" font-family="Georgia" font-weight="bold">
+OB
+</text>
+
+</g>
+
+<!-- Name -->
+
+<text x="600" y="270" fill="#d4af37" font-size="48" text-anchor="middle" font-family="Georgia" font-weight="bold">
+
+OTÁVIO BITENCOURT
+
+</text>
+
+<!-- Subtitle -->
+
+<text x="600" y="305" fill="#bfbfbf" font-size="22" text-anchor="middle">
+
+⚔ Game Developer • C++ • Unreal Engine 5
+
+</text>
+
+<!-- Quest -->
+
+<text x="600" y="335" fill="#d4af37" font-size="18" text-anchor="middle">
+
+Current Quest: SpaceShooter
+
+</text>
+
+<!-- Particles -->
+
+<circle cx="300" cy="80" r="2" fill="#d4af37">
+
+<animate attributeName="cy" values="80;40;80" dur="4s" repeatCount="indefinite"></animate>
+
+</circle>
+
+<circle cx="900" cy="120" r="2" fill="#d4af37">
+
+<animate attributeName="cy" values="120;70;120" dur="5s" repeatCount="indefinite"></animate>
+
+</circle>
+
+<circle cx="760" cy="60" r="2" fill="#d4af37">
+
+<animate attributeName="cy" values="60;20;60" dur="6s" repeatCount="indefinite"></animate>
+
+</circle>
 
 </svg>
