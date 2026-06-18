@@ -8,10 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Welcome+Traveler" />
 
-</div>
-*"Every great adventure begins with a single line of code."*
-</div>
-
 ---
 
 # 🛡 Knight Profile
