@@ -1,10 +1,8 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C9A227&center=true&vCenter=true&width=1000&lines=Otavio+Bitencourt;Game+Developer;Builder+of+Digital+Kingdoms;Creating+Worlds+with+C%2B%2B+and+Unreal+Engine;Current+Quest%3A+SpaceShooter" />
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="800">
+</p>
 
 ### ⚔ Game Developer • C++ • Unreal Engine 5
 
