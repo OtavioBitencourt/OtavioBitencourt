@@ -1,28 +1,38 @@
-<div align="center">
-
 <p align="center">
   <img src="./assets/banner.svg" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&repeat=false&lines=Welcome+Traveler" />
+</p>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Welcome+Traveler" />
+```txt
+CLASS  : Game Developer
+WEAPON : C++
+GUILD  : Unreal Engine 5
+QUEST  : SpaceShooter
+STATUS : Online
+```
+
+</div>
 
 ---
 
-# 🛡 Knight Profile
+# 👑 Character Sheet
 
-| Attribute   | Value                     |
-| ----------- | ------------------------- |
-| ⚔ Class     | Game Developer            |
-| 🎓 Rank     | Computer Science Graduate |
-| 🏰 Kingdom  | Code Kingdom              |
-| 📍 Location | Brazil                    |
-| 🟢 Status   | Online                    |
+| Attribute | Value |
+|------------|------------|
+| ⚔ Class | Game Developer |
+| 🎓 Rank | Computer Science Graduate |
+| 🏰 Kingdom | Code Kingdom |
+| 📍 Location | Brazil |
+| 🟢 Status | Online |
 
 ---
 
-# 📜 Current Quest
+# ⚔ Active Quest
 
 ```txt
 MISSION ACTIVE
@@ -30,18 +40,21 @@ MISSION ACTIVE
 Project:
 ► SpaceShooter
 
-Objective:
+Objectives:
+
 ► Improve gameplay systems
 ► Expand game mechanics
-► Master C++ game development
+► Master modern C++
+► Study game architecture
 
 Ultimate Goal:
+
 ► Become a Professional Game Developer
 ```
 
 ---
 
-# ⚔ Attributes
+# 📜 Attributes
 
 ```txt
 C++
@@ -62,7 +75,7 @@ Software Engineering
 
 ---
 
-# 🏹 Equipment
+# 🛡 Arsenal
 
 <p align="center">
 
@@ -88,22 +101,31 @@ Software Engineering
 
 ---
 
-# 🏰 Featured Project
+# 🚀 Featured Project
 
 ## 🎮 SpaceShooter
 
 A 2D Space Shooter developed in C++ using SFML.
 
-Current development focuses on:
+### Current Features
 
-* Gameplay Systems
-* Enemy Behaviors
-* Game Architecture
-* Performance Improvements
+- Gameplay Systems
+- Enemy Behaviors
+- Collision Detection
+- Score System
+- Modular Architecture
+
+### Upcoming Features
+
+- Boss Battles
+- Power-Ups
+- Sound Effects
+- Improved Enemy AI
+- Visual Effects
 
 ---
 
-# 📈 Kingdom Statistics
+# 📊 Kingdom Records
 
 <p align="center">
 
@@ -115,7 +137,7 @@ Current development focuses on:
 
 ---
 
-# ⚔ Campaign History
+# 🗺 Adventure Log
 
 <p align="center">
 
@@ -129,18 +151,24 @@ Current development focuses on:
 
 <p align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:white)](mailto:ssotaviobb@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:white)](https://www.instagram.com/ot_s16/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:white)](https://www.linkedin.com/in/ot%C3%A1vio-bitencourt-silva-ba44b8255/)
+<a href="mailto:ssotaviobb@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D4AF37">
+</a>
 
+<a href="https://www.instagram.com/ot_s16/">
+<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=D4AF37">
+</a>
+
+<a href="https://www.linkedin.com/in/ot%C3%A1vio-bitencourt-silva-ba44b8255/">
+<img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=D4AF37">
+</a>
 
 </p>
 
 ---
 
+<div align="center">
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galaxyhf/galaxyhf/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galaxyhf/galaxyhf/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/galaxyhf/galaxyhf/output/github-contribution-grid-snake.svg">
-</picture>
+### 👑 Building games one line of code at a time.
+
+</div>
