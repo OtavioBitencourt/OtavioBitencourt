@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="800">
+  <img src="banner.svg">
 </p>
 
 ### ⚔ Game Developer • C++ • Unreal Engine 5
