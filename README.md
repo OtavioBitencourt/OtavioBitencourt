@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&pause=1000&color=C9A227&center=true&vCenter=true&width=900&lines=Otávio+Bitencourt;⚔️+Game+Developer;🏰+Builder+of+Digital+Kingdoms;🎮+Creating+Worlds+with+C%2B%2B+and+Unreal+Engine;🛡️+Welcome+to+the+Code+Kingdom" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=C9A227&center=true&vCenter=true&width=800&lines=Loading+Character+Data...;Loading+Skills...;Loading+Equipment...;Loading+Quests...;Player+Loaded%3A+Otávio+Bitencourt" />
 
 </div>
 
