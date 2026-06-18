@@ -13,6 +13,7 @@
 | Attribute | Value |
 |------------|------------|
 | ⚔ Class | Game Developer |
+| 🗡 Weapon | C++ |
 | 🎓 Rank | Computer Science Graduate |
 | 🏰 Kingdom | Code Kingdom |
 | 📍 Location | Brazil |
