@@ -1,98 +1,109 @@
 <div align="center">
 
-# 🎮 OTÁVIO BITENCOURT
+# 👑 OTÁVIO BITENCOURT
 
-### Game Developer • C++ • Unreal Engine 5 • RF Security Research
+### ⚔ Game Developer • C++ • Unreal Engine 5
 
-```txt
-═══════════════════════════════════════════════════════
-
-SYSTEM BOOTING...
-
-PLAYER LOADED: OTÁVIO BITENCOURT
-
-CLASS:
-└── Game Developer
-
-SPECIALIZATIONS:
-├── Unreal Engine 5
-├── C++
-├── Gameplay Systems
-├── RF Security
-└── Software Engineering
-
-CURRENT QUEST:
-└── Developing secure communication systems
-    and immersive game experiences.
-
-STATUS:
-🟢 ONLINE
-
-═══════════════════════════════════════════════════════
-```
+*"Every great adventure begins with a single line of code."*
 
 </div>
 
 ---
 
-## ⚔ Character Sheet
+# 🛡 Knight Profile
 
-| Attribute     | Level      |
-| ------------- | ---------- |
-| C++           | █████████░ |
-| Unreal Engine | ████████░░ |
-| Game Design   | ███████░░░ |
-| Networking    | ███████░░░ |
-| RF Security   | ██████░░░░ |
+| Attribute   | Value                     |
+| ----------- | ------------------------- |
+| ⚔ Class     | Game Developer            |
+| 🎓 Rank     | Computer Science Graduate |
+| 🏰 Kingdom  | Code Kingdom              |
+| 📍 Location | Brazil                    |
+| 🟢 Status   | Online                    |
 
 ---
 
-## 🎯 Main Quest
+# 📜 Current Quest
 
 ```txt
-[ACTIVE]
+MISSION ACTIVE
 
-Research:
-► Replay Attack Mitigation
+Project:
+► SpaceShooter
 
-Development:
-► Unreal Engine Projects
-► C++ Systems
-► Gameplay Programming
+Objective:
+► Improve gameplay systems
+► Expand game mechanics
+► Master C++ game development
 
-Goal:
+Ultimate Goal:
 ► Become a Professional Game Developer
 ```
 
 ---
 
-## 🧰 Equipment
+# ⚔ Attributes
+
+```txt
+C++
+█████████░ 90%
+
+Unreal Engine 5
+████████░░ 80%
+
+Gameplay Programming
+████████░░ 80%
+
+Game Design
+███████░░░ 70%
+
+Software Engineering
+███████░░░ 75%
+```
+
+---
+
+# 🏹 Equipment
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,unreal,git,github,vscode,java,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=unreal"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🏰 Featured Project
 
-### 🎮 Space Shooter
+## 🎮 SpaceShooter
 
-A 2D space shooter developed in C++ using SFML.
+A 2D Space Shooter developed in C++ using SFML.
 
-### 📡 RF Security Research
+Current development focuses on:
 
-Research project focused on Replay Attack mitigation.
-
-### 🌐 Web Development
-
-Academic and personal web projects.
+* Gameplay Systems
+* Enemy Behaviors
+* Game Architecture
+* Performance Improvements
 
 ---
 
-## 📈 Developer Statistics
+# 📈 Kingdom Statistics
 
 <p align="center">
 
@@ -104,38 +115,28 @@ Academic and personal web projects.
 
 ---
 
-## 📊 Activity Graph
+# ⚔ Campaign History
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioBitencourt&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioBitencourt&theme=github-dark"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📬 Contact
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/OtavioBitencourt/OtavioBitencourt/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## 🌌 Contact
-
-<p align="center">
-
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/ot%C3%A1vio-bitencourt-silva-ba44b8255/">
 LinkedIn
 </a>
 
 •
 
-<a href="mailto:seuemail@email.com">
-Email
+<a href="mailto:ssotaviobb@gmail.com">
+ssotaviobb@gmail.com
 </a>
 
 </p>
@@ -144,6 +145,6 @@ Email
 
 <div align="center">
 
-### "Every great game starts with a single line of code."
+### 👑 Building games one line of code at a time.
 
 </div>
