@@ -6,18 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&repeat=false&lines=Welcome+Traveler" />
 </p>
 
-<div align="center">
-
-```txt
-CLASS  : Game Developer
-WEAPON : C++
-GUILD  : Unreal Engine 5
-QUEST  : SpaceShooter
-STATUS : Online
-```
-
-</div>
-
 ---
 
 # 👑 Character Sheet
