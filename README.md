@@ -129,9 +129,9 @@ Current development focuses on:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ot%C3%A1vio-bitencourt-silva-ba44b8255/">
-LinkedIn
-</a>
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:white)](mailto:ssotaviobb@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:white)](https://www.instagram.com/ot_s16/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:white)](https://www.linkedin.com/in/ot%C3%A1vio-bitencourt-silva-ba44b8255/)
 
 •
 
