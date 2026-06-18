@@ -6,13 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=400&lines=Welcome" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Welcome+to+the+Kingdom+of+Bitencourt;Game+Developer;Current+Quest%3A+SpaceShooter;Building+Games+One+Line+at+a+Time"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Welcome+Traveler" />
 
 </div>
 
