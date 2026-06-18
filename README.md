@@ -1,6 +1,10 @@
 <div align="center">
 
-#  OTÁVIO BITENCOURT
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&pause=1000&color=C9A227&center=true&vCenter=true&width=900&lines=Otávio+Bitencourt;⚔️+Game+Developer;🏰+Builder+of+Digital+Kingdoms;🎮+Creating+Worlds+with+C%2B%2B+and+Unreal+Engine;🛡️+Welcome+to+the+Code+Kingdom" />
+
+</div>
 
 ### ⚔ Game Developer • C++ • Unreal Engine 5
 
@@ -137,12 +141,6 @@ Current development focuses on:
 </p>
 
 ---
-
-<div align="center">
-
-### 👑 Building games one line of code at a time.
-
-</div>
 
 
 <picture align="center">
